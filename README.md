@@ -1,6 +1,6 @@
 ## <a name="features">🔋 Features</a>
 
-👉 **Authentication**: User authentication using GitHub through NextAuth, ensuring secure sign-in/out and session management.
+👉 **Authentication**:  User authentication using Clerk, ensuring secure sign-in/out and session management
 
 👉 **Collaborative Text Editor**: Multiple users can edit the same document simultaneously with real-time updates.
 
